@@ -12,7 +12,7 @@ SwiperJS: Utilized SwiperJS to implement sliding functionality, providing a seam
 Responsive Design: The website is designed to be fully responsive, ensuring optimal viewing and interaction across various devices, with a specific focus on the iPhone XR.
 
 Demo
-For a live demo, check out my Website -> https://hashimownsapple.vercel.app/
+For a live demo, check out my Website -> https://apple-clone-mulukent-dev1.vercel.app/
 
 
 
